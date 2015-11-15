@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CreditCards</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_card">AddCard</string>
+    <string name="title_activity_all_cards">AllCards</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="title_activity_transaction">Transaction</string>
+    <string name="title_activity_card_details">CardDetails</string>
+</resources>
